@@ -34,11 +34,11 @@ nav ul li a {
   text-align: center;
   padding: 5rem 2rem;
   background: #f4f4f4;
-  background-image: url('image/computer-1231889_1920.jpg');
+  background-image: url('image/5467393_1687.jpg');
   background-size: cover;
   background-position: center;
   padding: 100px 20px;
-  color: white;
+  color: orangered;
   text-align: center;
 }
 
@@ -71,6 +71,7 @@ nav ul li a {
   padding: 1.5rem;
   border-radius: 8px;
   width: 200px;
+  height: 150px;
 }
 
 .contact form {
@@ -88,14 +89,9 @@ input, textarea, button {
 }
 
 #address{
+  
   margin-left: 50px;
 }
-/* #follow{
-  height: 150px;
-  width: 100px;
-  margin-top: 0px;
-  margin-left: 30px;
-} */
 
 footer {
   margin-left: 0px;
@@ -104,3 +100,4 @@ footer {
   color: white;
   padding: 1rem;
 }
+
